@@ -24,4 +24,5 @@
 ### Githubs / Resources from ENUG 2019:
 
 * [https://github.com/PenfieldLibrary](https://github.com/PenfieldLibrary)
+* Zendesk presentation at: [https://rmiessle.sites.gettysburg.edu/files/miessler\_enug\_2019.pdf](https://rmiessle.sites.gettysburg.edu/files/miessler_enug_2019.pdf)
 
