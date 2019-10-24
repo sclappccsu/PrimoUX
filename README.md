@@ -20,3 +20,5 @@ Our slides / presentation: [https://docs.google.com/presentation/d/1e2beHYTpW5Jx
 
 Github for this information: [https://github.com/sclappccsu/PrimoUX](https://github.com/sclappccsu/PrimoUX)
 
+\[Gitbook homepage for this information at: [https://cscu-primo-et.gitbook.io/primo-usability-studies/](https://cscu-primo-et.gitbook.io/primo-usability-studies/)\]
+
