@@ -19,5 +19,9 @@
 
 * Galbreath, B. L., Johnson, C., & Hvizdak, E. \(2018\). Primo New User Interface: Usability Testing and Local Customizations Implemented in Response. Information Technology and Libraries, 37\(2\), 10-33. [https://doi.org/10.6017/ital.v37i2.10191](https://doi.org/10.6017/ital.v37i2.10191)
   * "From this study, we learned that users had little difficulty using basic and advanced search, signing into and out of primo, and navigating their account. In other areas, where the difference between the two interfaces was more pronounced, study participants experienced more difficulty. Finally, we present customizations implemented at Washington State University to the design of the interface to help alleviate the observed issues."
-    * 
+* Nichols, A., Billey, A., Spitzform, P., Stokes, A., & Tran, C. \(2014\). Kicking the Tires: A Usability Study of the Primo Discovery Tool. Journal of Web Librarianship, 8\(2\), 172-195.
+
+### Githubs / Resources from ENUG 2019:
+
+* [https://github.com/PenfieldLibrary](https://github.com/PenfieldLibrary)
 
