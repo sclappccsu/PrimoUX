@@ -21,6 +21,10 @@
   * "From this study, we learned that users had little difficulty using basic and advanced search, signing into and out of primo, and navigating their account. In other areas, where the difference between the two interfaces was more pronounced, study participants experienced more difficulty. Finally, we present customizations implemented at Washington State University to the design of the interface to help alleviate the observed issues."
 * Nichols, A., Billey, A., Spitzform, P., Stokes, A., & Tran, C. \(2014\). Kicking the Tires: A Usability Study of the Primo Discovery Tool. Journal of Web Librarianship, 8\(2\), 172-195.
 
+### Citation trail for discovery usability articles:
+
+* [https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84903207559&src=s&imp=t&sid=b556e2ce1f2d5582956bae4595a68fba&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=62b1f37b93a260000dbe319bb2c67049](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84903207559&src=s&imp=t&sid=b556e2ce1f2d5582956bae4595a68fba&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=62b1f37b93a260000dbe319bb2c67049)
+
 ### Githubs / Resources from ENUG 2019:
 
 * [https://github.com/PenfieldLibrary](https://github.com/PenfieldLibrary)
